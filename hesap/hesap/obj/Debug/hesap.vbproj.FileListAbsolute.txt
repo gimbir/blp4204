@@ -1,0 +1,10 @@
+C:\Users\Gimbir\Desktop\finals\görsel3\hesap\hesap\bin\Debug\hesap.dll
+C:\Users\Gimbir\Desktop\finals\görsel3\hesap\hesap\bin\Debug\hesap.pdb
+C:\Users\Gimbir\Desktop\finals\görsel3\hesap\hesap\bin\Debug\hesap.xml
+C:\Users\Gimbir\Desktop\finals\görsel3\hesap\hesap\obj\Debug\hesap.vbprojAssemblyReference.cache
+C:\Users\Gimbir\Desktop\finals\görsel3\hesap\hesap\obj\Debug\hesap.Resources.resources
+C:\Users\Gimbir\Desktop\finals\görsel3\hesap\hesap\obj\Debug\hesap.vbproj.GenerateResource.cache
+C:\Users\Gimbir\Desktop\finals\görsel3\hesap\hesap\obj\Debug\hesap.vbproj.CoreCompileInputs.cache
+C:\Users\Gimbir\Desktop\finals\görsel3\hesap\hesap\obj\Debug\hesap.dll
+C:\Users\Gimbir\Desktop\finals\görsel3\hesap\hesap\obj\Debug\hesap.xml
+C:\Users\Gimbir\Desktop\finals\görsel3\hesap\hesap\obj\Debug\hesap.pdb

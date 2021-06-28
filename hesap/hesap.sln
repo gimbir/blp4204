@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "hesap", "hesap\hesap.vbproj", "{FB2C9866-4DB8-4DEC-AD7E-EC50B2B66EE5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB2C9866-4DB8-4DEC-AD7E-EC50B2B66EE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB2C9866-4DB8-4DEC-AD7E-EC50B2B66EE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB2C9866-4DB8-4DEC-AD7E-EC50B2B66EE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB2C9866-4DB8-4DEC-AD7E-EC50B2B66EE5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E920F669-62CE-4297-8B66-ED9A4D0A2DA7}
+	EndGlobalSection
+EndGlobal
